@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    
+    font-size: 50px;
+    color: rgb(104, 72, 194);
+}
+th{
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 20px;
+    color: white;
+    background: rgb(193, 74, 230);
+}
+td{
+    border: 1px solid black; 
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    /* color: white; */
+    background: rgb(226, 158, 247);
+}
